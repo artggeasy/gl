@@ -4,7 +4,7 @@
             "name": "Win32",
             "includePath": [
                 "${workspaceFolder}/**",
-                "C:/freeglut-3.8.0/freeglut-3.8.0/include"
+                "C:/msys64/ucrt64/bin"
             ],
             "defines": [
                 "_DEBUG",
